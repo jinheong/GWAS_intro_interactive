@@ -1,5 +1,6 @@
 # GWAS Visual Lab
 A webpage for interactive review for GWAS basic concept course built with plain HTML, CSS, and JavaScript.
+Try it here: https://jinheong.github.io/GWAS_intro_interactive/
 
 ## Files
 - `index.html` — course structure
