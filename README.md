@@ -2,15 +2,11 @@
 A webpage for interactive review for GWAS basic concept course built with plain HTML, CSS, and JavaScript.
 
 ## Files
-
 - `index.html` — course structure
-- `styles.css` — responsive layout and visual design
-- `app.js` — topic interactions, progress tracking, and randomized quiz
 
 No build step or server is required.
 
 ## Local preview
-
 Open `index.html` directly in a modern browser. A local web server is optional.
 
 ## Data and quiz behavior
